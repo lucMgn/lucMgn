@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Je suis un étudiant en première au BUT informatique à Limoges.
+Je suis un étudiant en première année au BUT informatique à Limoges.
 
 Langage de prgrammation :
   - python
